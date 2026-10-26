@@ -1,7 +1,3 @@
-Here’s your `waf.md` file, formatted as a structured Markdown guide with tables, code examples, architecture diagrams, interview questions, and checklists.
-
-Writing
-
 # 🛡️ AWS WAF: Complete DevOps Engineer Guide
 
 ## Production Security, Architecture, Terraform, Troubleshooting & Interview Preparation
@@ -846,7 +842,3 @@ AWS WAF is an important component of production application security. A strong D
 The most effective approach is layered security:
 
 **CloudFront + AWS WAF + origin protection + application security + monitoring + tested recovery procedures.**
-
-Learn the concepts, implement them in a non-production lab, test real request behavior, and practise explaining your design decisions in scenario-based interviews.
-
-Save the document as `waf.md` in your notes or project repository.
